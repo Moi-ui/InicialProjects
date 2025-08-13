@@ -18,6 +18,7 @@ def fazer_animal_falar(animal):
 cachorro = Cachorro()
 pato = Pato()
 gato = Gato()
+
 print("--- EXEMPLO 1: POLIMORFISMO COM HERANÇA ---")
 fazer_animal_falar(pato)
 fazer_animal_falar(gato)
